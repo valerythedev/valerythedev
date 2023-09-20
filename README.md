@@ -3,14 +3,14 @@
 
 😄 Pronouns: She/they
 
-🔭 I’m currently working on client's portfolio site.
+🔭 I’m currently working on a client's portfolio site.
 
-🌱 I’m currently learning Node.js.
+🌱 I’m currently learning Typescript
 
 📫 How to reach me: valery.gonzalez.dev@gmail.com
 
 <!-- 📄 Know about my experiences: My Resume -->
 
-<!-- 💕 Fun fact Bubble tea is my kryptonite. -->
+<!-- 💕 Fun fact: Bubble tea is my kryptonite. -->
 
 
